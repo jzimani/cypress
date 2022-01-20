@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://geotopkosice.xyz",
+    "env": {
+        "name": "TestUser",
+        "email": "TestEmail",
+        "message": "This is a test message"
+    }
+}
